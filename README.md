@@ -11,6 +11,8 @@ How to do it:
 
 Download the libs.rar from KeyAuth.com ( https://github.com/KeyAuth/KeyAuth-CPP-Example/blob/main/libs.zip )
 
+!!THIS IS NOT WORKING ANYMORE I PUT THE LIBS.ZIP INTO THE FOLDER DOWNLOAD IT FROM THERE!!
+
 Extract libs.rar into the folder
 
 open the .sln file
