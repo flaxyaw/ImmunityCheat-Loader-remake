@@ -1,10 +1,10 @@
 /*Author: JustMirii
 * 
-* Date: US Date: 12.4.2021   EU Date: 4.12.2021
+* Date: 4.12.2021 (eu)
 * 
 * Contact:
 * 
-* Discord: Iam a flax fanboy#8973
+* Discord: flaxfaNN#8973
 * 
 * Website: https://iamundetected.github.io/
 * 
@@ -39,6 +39,8 @@
 * 
 * and me c:
 */
+
+//14.03.2024 just visited by github and saw it getting quite a few stars. watched the video i linked and thought ill just add colors for the text box. If ur reading this enjoy ur summer ig.
 
 //*Please dont use it for bad or sell it but enjoy using it as a base or something
 #include <iostream>
@@ -210,8 +212,8 @@ int APIENTRY WindownsMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	colors[ImGuiCol_PopupBg] = ImVec4(0.08f, 0.08f, 0.08f, 0.94f);
 	colors[ImGuiCol_Border] = ImVec4(0.43f, 0.43f, 0.50f, 0.50f);
 	colors[ImGuiCol_BorderShadow] = ImVec4(0.00f, 0.00f, 0.00f, 0.00f);
-	colors[ImGuiCol_FrameBg] = ImVec4(0.16f, 0.29f, 0.48f, 0.54f);
-	colors[ImGuiCol_FrameBgHovered] = ImVec4(0.26f, 0.59f, 0.98f, 0.40f);
+	colors[ImGuiCol_FrameBg] = ImVec4(60.0f / 255.0f, 64.0f / 255.0f, 66.0f / 255.0f, 1.0f);
+	colors[ImGuiCol_FrameBgHovered] = ImVec4(99.0f / 255.0f, 104.0f / 255.0f, 107.0f / 255.0f, 1.0f);
 	colors[ImGuiCol_FrameBgActive] = ImVec4(0.26f, 0.59f, 0.98f, 0.67f);
 	colors[ImGuiCol_TitleBg] = ImVec4(0.07f, 0.07f, 0.09f, 1.00f);
 	colors[ImGuiCol_TitleBgActive] = ImVec4(0.07f, 0.07f, 0.09f, 1.00f);
@@ -250,6 +252,7 @@ int APIENTRY WindownsMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	colors[ImGuiCol_NavWindowingHighlight] = ImVec4(1.00f, 1.00f, 1.00f, 0.70f);
 	colors[ImGuiCol_NavWindowingDimBg] = ImVec4(0.80f, 0.80f, 0.80f, 0.20f);
 	colors[ImGuiCol_ModalWindowDimBg] = ImVec4(0.80f, 0.80f, 0.80f, 0.35f);
+
 
 	style.WindowRounding = 0.0f;
 	style.ChildRounding = 0.0f;
